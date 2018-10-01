@@ -14,8 +14,17 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+    <groupId></groupId>
+    <artifactId></artifactId>
+    </dependency>
+    
   </dependencies>
   <build>
     <finalName>LAVI_ADMIN_APP</finalName>
   </build>
+  
+  
+  
+  
 </project>
